@@ -1,0 +1,12 @@
+package org.abcairlines;
+
+class Aircraft
+{
+	void destinationList()
+	{
+		
+	}
+}
+public class PassengerMain {
+
+}

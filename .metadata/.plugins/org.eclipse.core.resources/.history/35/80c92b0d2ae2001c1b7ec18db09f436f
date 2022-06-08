@@ -1,0 +1,30 @@
+package com.motivitylabs.training;
+
+class MagellanicCloud
+{
+	String claintname = "absd";
+	String projectname = "abcapplication Development";
+	
+	void usedTechnology()
+	{
+		System.out.println("nothing declared is here");
+		
+	}
+	
+	
+}
+class MotivityLabs extends  MagellanicCloud
+{
+	
+}
+
+
+public class Example3 
+{
+	public static void main(String[] args) 
+	{
+		
+		
+	}
+
+}

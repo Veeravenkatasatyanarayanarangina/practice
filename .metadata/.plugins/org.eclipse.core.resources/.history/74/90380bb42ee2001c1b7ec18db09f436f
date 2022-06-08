@@ -1,0 +1,25 @@
+package com.motivitylabs.training;
+
+
+class Hospital
+{
+	String patientname;
+	int patientid;
+	String cunsultentdoctor;
+	String problem;
+	@Override
+	public String detais() {
+		return "Hospital [patientname=" + patientname + ", patientid=" + patientid + ", cunsultentdoctor="
+				+ cunsultentdoctor + ", problem=" + problem + "]";
+	}
+	
+	
+}
+
+public class HirarchicalInheritenceExample 
+{
+	public static void main(String[] args) {
+		
+	}
+
+}

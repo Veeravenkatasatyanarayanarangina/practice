@@ -1,0 +1,27 @@
+package com.motivitylabs.training;
+
+
+class StudentOf
+{
+	int marks = 100;
+	void passmarks()
+	{
+		System.out.println("Student pass marks are above 45 ");
+	}
+	
+	
+}
+class Raja extends StudentOf
+{
+	int marks = 75;
+	
+	
+}
+
+public class HirarchicalInheritenceExample 
+{
+	public static void main(String[] args) {
+		
+	}
+
+}

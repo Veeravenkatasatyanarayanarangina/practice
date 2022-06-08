@@ -1,0 +1,19 @@
+package org.abcairlines;
+
+class Aircraft
+{
+	void destinationList()
+	{
+		System.out.println(" 1. Goa  \n 2. Bangalore \n 3. Delhi \n 4. Kolkata \n 5. Pune");
+	}
+}
+public class PassengerMain 
+{
+	public static void main(String[] args)
+	{
+		Aircraft antov = new Aircraft();
+		antov.destinationList();
+		
+	}
+
+}
